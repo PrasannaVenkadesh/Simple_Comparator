@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Calculator!</string>
+    <string name="app_name">Comparator</string>
+    <string name="txtview1">First Number</string>
+    <string name="txtview2">Second Number</string>
+    <string name="btn1">Compare</string>
+
+</resources>
